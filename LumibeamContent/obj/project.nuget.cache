@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8pVNnnCT/Dw=",
+  "dgSpecHash": "fTZyi2Sdmlk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maan0015\\source\\repos\\LumibeamContent\\LumibeamContent.csproj",
+  "projectFilePath": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\LumibeamContent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maan0015\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.15\\microsoft.aspnetcore.app.internal.assets.10.0.15.nupkg.sha512"
   ],

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumibeamContent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4ee35beba20a8accb076670743f28e670020985")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumibeamContent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumibeamContent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

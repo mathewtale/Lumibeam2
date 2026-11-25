@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maan0015\\source\\repos\\LumibeamContent\\LumibeamContent.csproj": {}
+    "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\LumibeamContent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maan0015\\source\\repos\\LumibeamContent\\LumibeamContent.csproj": {
+    "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\LumibeamContent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maan0015\\source\\repos\\LumibeamContent\\LumibeamContent.csproj",
+        "projectUniqueName": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\LumibeamContent.csproj",
         "projectName": "LumibeamContent",
-        "projectPath": "C:\\Users\\maan0015\\source\\repos\\LumibeamContent\\LumibeamContent.csproj",
+        "projectPath": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\LumibeamContent.csproj",
         "packagesPath": "C:\\Users\\maan0015\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maan0015\\source\\repos\\LumibeamContent\\obj\\",
+        "outputPath": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maan0015\\source\\repos\\LumibeamContent\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|c:\\users\\maan0015\\documents\\github\\lumibeam2\\lumibeamcontent\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|c:\\users\\maan0015\\documents\\github\\lumibeam2\\lumibeamcontent\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|c:\\users\\maan0015\\documents\\github\\lumibeam2\\lumibeamcontent\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|c:\\users\\maan0015\\documents\\github\\lumibeam2\\lumibeamcontent\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|c:\\users\\maan0015\\documents\\github\\lumibeam2\\lumibeamcontent\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|solutionrelative:components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|c:\\users\\maan0015\\documents\\github\\lumibeam2\\lumibeamcontent\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3CDB164-DF1C-237F-62AF-C8F3C122BA0E}|LumibeamContent.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +43,90 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T10:14:13.885Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-25T10:10:48.928Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T09:57:51.188Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T09:52:55.787Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T09:24:35.403Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\maan0015\\Documents\\GitHub\\Lumibeam2\\LumibeamContent\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T09:24:22.04Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             }
           ]
         }
