@@ -37,8 +37,17 @@ class ImageService
         $thumbnailPath = $thumbnailDirectory . DIRECTORY_SEPARATOR . $filename;
 
         $thumbnailImage = $this->manager->read($originalPath);
-        $thumbnailImage->cover(300, 300); 
-        $thumbnailImage->save($thumbnailPath);
+        $thumbnailImage->cover(300, 300);
+        $encodedThumbnail = match (strtolower(pathinfo($thumbnailPath, PATHINFO_EXTENSION))) {
+            'jpg', 'jpeg' => $thumbnailImage->toJpeg(),
+            'png' => $thumbnailImage->toPng(),
+            'gif' => $thumbnailImage->toGif(),
+            'webp' => $thumbnailImage->toWebp(),
+            'bmp' => $thumbnailImage->toBitmap(),
+            'avif' => $thumbnailImage->toAvif(),
+            default => throw new \InvalidArgumentException('Het afbeeldingsformaat wordt niet ondersteund.'),
+        };
+        $encodedThumbnail->save($thumbnailPath);
 
         return [
             'resized' => $resizedPath,
